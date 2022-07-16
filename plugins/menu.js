@@ -35,7 +35,7 @@ const defaultMenu = {
   body: '┆⬡ %cmd %islimit %isPremium',
   footer: '┗━───────⬣\n',
   after: `
-*%JarotOffc@^%version*
+*%Imv-Yann@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -197,7 +197,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let judul = `${global.ucapan}, ${name}`.trim()
       const sections = [
       {
-        title: '𝐥𝐢𝐬𝐭 𝐦𝐞𝐧𝐮 𝐀𝐥𝐩𝐢 𝐛𝐨𝐭',
+        title: 'ʟɪsᴛ ᴍᴇɴᴜ ɪᴍᴠ ʙᴏᴛ',
         rows: [
           { title: 'allmenu', rowId: `${_p}? all` },
           { title: 'info alpi', rowId: `${_p}? infonadia` },
