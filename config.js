@@ -32,16 +32,16 @@ global.APIKeys = { // APIKey Here
 }
 
 //global.wm = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆'
-global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_'
-global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
+global.wait = '_*ᴡᴀɪᴛ ,𝚂𝚎𝚍𝚊𝚗𝚐 𝙳𝚒 𝙿𝚛𝚘𝚜𝚎𝚜...*_'
+global.eror = '_*𝚂𝚎𝚛𝚟𝚎𝚛 𝙴𝚛𝚛𝚘𝚛..*_'
 
 //========Url Template Buttons=========//
-global.dtu = '𝑌𝑜𝑢𝑡𝑢𝑏𝑒'
-global.urlnya = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.dtu = 'ᴍʏ ɢʀᴏᴜᴘ'
+global.urlnya = "https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ"
 
 //============= callButtons =============//
-global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '62 857-1313-7903'
+global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.phn = '62 822-5228-5143'
 
 //============= Games ================//
 global.benar = '_*Benar*_'
