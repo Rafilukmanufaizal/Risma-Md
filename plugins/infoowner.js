@@ -13,7 +13,7 @@ conn.reply(m.chat, `
 
 handler.help = ['infoowner']
 handler.tags = ['main', 'utama']
-handler.command = /^(infoalpi)$/i
+handler.command = /^(infoowner)$/i
 
 handler.exp = 150
 
