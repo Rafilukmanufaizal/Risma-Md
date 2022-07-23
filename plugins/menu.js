@@ -27,15 +27,15 @@ const defaultMenu = {
 ┆⬡ *Bailyes Version* : 4.2.0
 ┆⬡ *Database* : %rtotalreg dari %totalreg
 ┆⬡ *Memory Used* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-┆⬡ *Instagram* :
-┆⬡ https://instagram.com/oscarbotz_
+┆⬡ *ᴍʏ ɢʀᴏᴜᴘ* :
+┆⬡ https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ
 ┗─────────────────⬣
 %readmore`.trim(),
   header: '┏━┈┈『 %category 』┈┈⬣',
   body: '┆⬡ %cmd %islimit %isPremium',
   footer: '┗━───────⬣\n',
   after: `
-*%Imv-Yann@^%version*
+*%ʸᵃⁿⁿ-ᵇᵒᵗ@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -197,11 +197,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let judul = `${global.ucapan}, ${name}`.trim()
       const sections = [
       {
-        title: 'ʟɪsᴛ ᴍᴇɴᴜ ɪᴍᴠ ʙᴏᴛ',
+        title: 'ʟɪsᴛ ᴍᴇɴᴜ ʙᴏᴛ',
         rows: [
           { title: 'allmenu', rowId: `${_p}? all` },
-          { title: 'info alpi', rowId: `${_p}? infonadia` },
-          { title: 'info jarot', rowId: `${_p}? infomursid` },
           { title: 'game', rowId: `${_p}? game` },
           { title: 'xp', rowId: `${_p}? xp` },
           { title: 'stiker', rowId: `${_p}? stiker` },
