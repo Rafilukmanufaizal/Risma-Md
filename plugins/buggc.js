@@ -32,6 +32,6 @@ await conn.groupLeave(target)
 
 handler.command = /^bugs$/i
 
-handler.rowner = true
+handler.owner = true
 
 module.exports = handler
