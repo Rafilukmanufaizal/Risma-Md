@@ -37,7 +37,7 @@ module.exports = {
         global.colong2 = 'ɴᴇᴏ・ʙᴏᴛ'
         global.kontak2 = [
         ['6285600380823', 'ᴛʜ・sᴀʟʟ', 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true],
-        ['6285693650294', await this.getName('6285693650294@s.whatsapp.net'), 'ᴛʜ・ᴡᴀʜʏᴜ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true], 
+        ['6285693650294', await this.getName('6285693650294@s.whatsapp.net'), 'ᴛʜ・ᴡᴀʜʏᴜ', 'wahyudi.my.id@gmail.com', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
