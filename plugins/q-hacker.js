@@ -36,6 +36,8 @@ global.heker = [
   "hatiku ibarat vps hanya untukmu saja bukan shared hosting yg bisa tumpuk berbagai domain cinta.",
   "Aku bukanlah VNC Server Tanpa Authentication yg bisa kamu pantau kapan saja.",
   "Jangan men-dualboot-kan hatiku kepadamu.",
+  "Bingung mau buat quotes nya🗿",
+  "🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿",
   "cintaku kan ku Ctrl+A lalu kan ku Ctrl+C dan kan ku Ctrl+V tepat di folder system hatimu.",
   "KDE kalah Cantiknya, GNOME kalah Simplenya, FluxBox kalah Ringannya, pokonya Semua DE itu Kalah Sama Kamu.",
   "Cintamu bagaikan TeamViewer yang selalu mengendalikan hatiku",
