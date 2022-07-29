@@ -18,7 +18,7 @@ conn.reply(m.chat, `
 
 handler.help = ['bioowner']
 handler.tags = ['main', 'utama']
-handler.command = /^(infojarot)$/i
+handler.command = /^(bioowner)$/i
 
 handler.exp = 150
 
