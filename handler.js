@@ -30,11 +30,11 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = '𝓢𝓪𝓵𝓵'
+        //global.author = '𝓼𝓪𝓵𝓵'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
         global.wm = '© ɴᴇᴏ ᴍᴅ'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ɴᴇᴏ・ʙᴏᴛ'
+        global.colong2 = 's x ʏ・ʙᴏᴛ'
         global.kontak2 = [
         ['6285600380823', 'ᴛʜ・sᴀʟʟ', 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true],
         ['6285693650294', await this.getName('6285693650294@s.whatsapp.net'), 'ᴛʜ・ᴡᴀʜʏᴜ', 'wahyudi.my.id@gmail.com', true], 
