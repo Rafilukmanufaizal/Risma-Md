@@ -2,6 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => conn.sendButton(m.chat, `
 ┏──「 Donasi • Dana 」─⬣
 │ • Pulsa : 085600380823/082153954737
 │ • Dana : 085600380823
+│ • Sociabuzz : https://sociabuzz.com/ezinter/support
 ╰────────⬣
 ┏──「 *NOTE* 」─⬣
 │ > Ingin donasi? wa.me/6285600380823
